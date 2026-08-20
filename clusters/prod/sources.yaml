@@ -9,4 +9,4 @@ spec:
     branch: main
   secretRef:
     name: email-consumer-service
-  url: ssh://git@github.com/brandon-parker-code/email-consumer-service-gitops
+  url: https://github.com/brandon-parker-code/email-consumer-service-gitops
